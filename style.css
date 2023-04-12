@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(115, 215, 255);
+}
+.titulo{
+    font-size: 60px;
+    color: white;
+    background-color: rgb(53, 53, 253);
+    padding: 35px;
+    padding-left: 530px;
+}
+.imagen{
+    margin: 50px;
+    border-radius: 40px;
+}
+.texto{
+    font-size: 25px;
+    position: relative;
+    left: 465px;
+    bottom: 530px;
+}
+.subtit{
+    font-size: 35px;
+    position: relative;
+    left: 465px;
+    bottom: 510px;
+}
+.lista{
+    font-size: 20px;
+    position: relative;
+    left: 465px;
+    bottom: 510px;
+}
+.subtit2{
+    font-size: 35px;
+    position: relative;
+    left: 465px;
+    bottom: 505px;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    background-color: rgb(0, 181, 255);
+    padding: 10px;
+    font-size: 30px;
+}
+.ini{
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    padding: 20px;
+}
+.ini:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.tini{
+    text-decoration: none;
+    color: black;
+}
+.habi{
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    padding: 20px;
+}
+.habi:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.thabi{
+    text-decoration: none;
+    color: black;
+}
+.est{
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    padding: 20px;
+}
+.est:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.test{
+    text-decoration: none;
+    color: black;
+}
+.con{
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    padding: 20px;
+}
+.con:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.tcon{
+    text-decoration: none;
+    color: black;
+}

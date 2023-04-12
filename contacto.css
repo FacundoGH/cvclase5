@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(115, 215, 255);
+}
+.contactimagen{
+    width: 550px;
+    height: 500px;
+    border-radius: 20px;
+}
+.tit{
+    font-size: 40px;
+    color: aliceblue;
+    background-color: blue;
+    padding: 35px;
+    padding-left: 800px;
+}
+.infoprinci{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.uno{
+    position: relative;
+    left: 570px;
+    bottom: 520px;
+    font-size: 35px;
+}
+.dos{
+    position: relative;
+    left: 570px;
+    bottom: 520px;
+    font-size: 25px;
+}
+.tres{
+    position: relative;
+    left: 570px;
+    bottom: 520px;
+    font-size: 35px;
+}
+.cuatro{
+    position: relative;
+    left: 570px;
+    bottom: 520px;
+    font-size: 25px;
+}
+.cinco{
+    position: relative;
+    left: 570px;
+    bottom: 520px;
+    font-size: 35px;
+}
+.seis{
+    position: relative;
+    left: 570px;
+    bottom: 520px;
+    font-size: 25px;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    background-color: rgb(0, 181, 255);
+    font-size: 30px;
+}
+.ini{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.ini:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.tini{
+    text-decoration: none;
+    color: black;
+}
+.habi{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.habi:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.thabi{
+    text-decoration: none;
+    color: black;
+}
+.est{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.est:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.test{
+    text-decoration: none;
+    color: black;
+}
+.con{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.con:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.tcon{
+    text-decoration: none;
+    color: black;
+}

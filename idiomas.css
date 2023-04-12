@@ -1,0 +1,67 @@
+.links{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: greenyellow;
+    font-size: 30px;
+}
+.ini{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.ini:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.tini{
+    text-decoration: none;
+    color: black;
+}
+.habi{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.habi:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.thabi{
+    text-decoration: none;
+    color: black;
+}
+.est{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.est:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.test{
+    text-decoration: none;
+    color: black;
+}
+.con{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    padding: 30px;
+}
+.con:hover{
+    background-color: aliceblue;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
+.tcon{
+    text-decoration: none;
+    color: black;
+}
